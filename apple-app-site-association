@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "AA88XH6GQ5.com.youban.edu”,
-                "paths": ["*"]
+                "paths": ["/scss/*"]
             }
         ]
     }
