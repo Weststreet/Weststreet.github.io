@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "AA88XH6GQ5.com.youban.edu”,
+                "appID": "AA88XH6GQ5.com.youban.edu",
                 "paths": ["/app/youban/*"]
             }
         ]
